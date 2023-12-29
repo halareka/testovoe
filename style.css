@@ -1,0 +1,33 @@
+body{
+    background-color: rgba(235, 216, 255, 0.778);
+}
+img{
+    margin-top: 60px;
+    border-radius: 30px;
+}
+h3{
+    font-family: 'Courier New', Courier, monospace;
+}
+input{
+    background-color: rgb(255, 193, 245);
+    border: none;
+    border-radius: 15px;
+    width: 85px;
+    height: 40px;
+    margin-top: 20px;
+    padding-left: 85px;
+}
+
+button{
+    background-color: rgb(255, 193, 245);
+    border: none;
+    border-radius: 15px;
+    width: 175px;
+    height: 43px;
+}
+button:hover{
+    background-color: rgb(209, 165, 245);
+}
+input:hover{
+    background-color: rgb(209, 165, 245);
+}
